@@ -1,0 +1,5 @@
+APP:
+  ENVIRONMENT: test
+  URL: https://orgcb8378a5.crm4.dynamics.com/main.aspx?app=d365default
+  USERNAME: qaraton_playwright@outlook.com
+  PASSWORD: TestAutomation2024!!

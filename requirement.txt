@@ -1,0 +1,6 @@
+robotframework
+robotframework-seleniumlibrary
+webdrivermanager
+robotframework-browser
+pytest
+PyYAML

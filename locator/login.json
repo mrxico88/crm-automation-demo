@@ -1,0 +1,11 @@
+{
+  "emailInputLocator": "input[placeHolder='Email address, phone number or Skype']",
+  "passwordInputLocator" : "input[placeHolder='Password' ]",,
+  "nextButtonLocator" : "input[value='Next' ]",
+  "signInButtonLocator" : "input[value='Sign in' ]",
+  "dontShowAgainLocator" : "input[name='DontShowAgain' ]",
+  "yesButtonLocator" : "input[value='Yes' ]",
+  "headerPictureLocator" : "[id$='headerPicture' ]",
+  "viewAccountLocator" : "[id$='viewAccount' ]",
+  "appBreadCumTextLocator" : "[data-id='appBreadCrumbText' ]"
+}
